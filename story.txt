@@ -1,6 +1,4 @@
-There once was a student named Ryan.
-One day while Ryan was taking his Math exam he forgot how to perform one
-type of integration.
+There once was a student named Ryan. One day while Ryan was taking his Math exam he forgot how to perform one type of integration.
 
 Though he tried and tried, he just couldn't remember how to do integration by parts. His efforts proved to be fruitless despite his efforts, causing him to panic and worry.
 
@@ -8,3 +6,6 @@ Then he asked the professor if he could check his textbook, the professor said
 yes, and told him that he should read the whole book through during the exam.
 
 But actually, Ryan is just dreaming. Of course we cannot check the textbook during exam. Ryan is just too nervous about his exam.
+
+In the end, Ryan woke up in the exam room and looked at the board. There was only 10 minutes left. Seeing that he had done the rest of the exam and had fallen asleep, Ryan decided to simply turn in his exam. 
+The end.
