@@ -3,3 +3,6 @@ One day while Ryan was taking his Math exam he forgot how to perform one
 type of integration.
 
 Though he tried and tried, he just couldn't remember how to do integration by parts. His efforts proved to be fruitless despite his efforts, causing him to panic and worry.
+
+Then he asked the professor if he could check his textbook, the professor said
+yes, and told him that he should read the whole book through during the exam.
